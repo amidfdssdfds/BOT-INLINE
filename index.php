@@ -1422,7 +1422,7 @@ https://telegram.me/mhrdev/834
 
                         [['text'=>'کانال اطلاع رسانی ربات','url'=>$links['mhrdev_c']]],
 
-                        [['text'=>'تماس با توسعه دهنده','url'=>'https://telegram.me/pp2007ws']],
+                       [['text'=>'تماس با توسعه دهنده','url'=>'https://telegram.me/teleagentsudo']],
                         [['text'=>'ربات نظر سنجی در کانال','url'=>'https://telegram.me/chvotebot']]
                     ]
                 ])
