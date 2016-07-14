@@ -1420,10 +1420,9 @@ https://telegram.me/mhrdev/834
                         [['text'=>$ad_btn,'url'=>$ad_url]], 
                       [['text'=>'به رایگان در تلگـ ـلیست کانال خود را ثبت کنید','url'=>'http://teleglist.com/?bot']],
 
-                        [['text'=>'کانال اطلاع رسانی ربات','url'=>$links['mhrdev_c']]],
-
-                       [['text'=>'تماس با توسعه دهنده','url'=>'https://telegram.me/teleagentsudo']],
-                        [['text'=>'ربات نظر سنجی در کانال','url'=>'https://telegram.me/chvotebot']]
+                      
+                       [['text'=>'تماس با توسعه دهنده','url'=>'https://telegram.me/teleagentsudo']]
+                       
                     ]
                 ])
             ]));
