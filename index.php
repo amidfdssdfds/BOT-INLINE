@@ -1385,7 +1385,7 @@ https://telegram.me/sscapachebot
             ];
             var_dump(makeHTTPRequest('sendMessage',[
                 'chat_id'=>$userID,
-                'text'=>"🌐به ربات دکمه شیشه ایی خوب آمدید
+                'text'=>"🌐به ربات مدیریت چنل خوش آمدید
 ➖➖➖➖➖➖➖
 اگر می خواهید با ربات و روش کار آن آشنا شوید کامند /help را وارد کنید .
 
