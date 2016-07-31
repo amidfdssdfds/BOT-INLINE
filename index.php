@@ -1,7 +1,6 @@
 <?php
 ob_start();
-define('API_KEY','239101742:AAFmVJtUm-yNToe3hNoJKE8vNTjgT5yIygg');
-$the_admin_id = 95876809;
+
 
 file_put_contents("count",file_get_contents("count")+1);
 $ad_btn='آموزش های رایگان برنامه نویسی';
